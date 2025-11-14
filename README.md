@@ -1,5 +1,6 @@
 # CPS-project-report
 Project repository for creative problem solving 
+
 Machine Learning (ML) has become core field within area of artificial intelligence. It allows
 systems to learn and detect patterns and make decisions without needing external
 programming. The success of any ML model depends heavily on the choice of algorithm and
